@@ -1,27 +1,23 @@
-# An Analysis of Kickstarter Campaigns.
+# Kickstarting with Excel
 
-Statistical analysis of fictional data for a fictional person.  Louise, really, who has a name like Louise, you must be a bot or something.  Inside you will find arbitrary findings to data which may or may not have been manufactured for demonstrational purposes.
+## Overview of Project
 
----
-## Exciting Insights
+### Purpose
 
-* Interesting Finding
-* Wow, Look at this one
-* She did this one thing to start her play, and theatres hate her for it.
+## Analysis and Challenges
 
----
+### Analysis of Outcomes Based on Launch Date
 
-## Some images to demonstrate said findings.
-![image_name](StDev.png)
-![image_name](OutcomesByMonth.png)
-![image_name](ParentCategoryOutcomes.png)
+### Analysis of Outcomes Based on Goals
 
----
-## All the data where the findings were found.
+### Challenges and Difficulties Encountered
 
-[AllTheData](data-1-1-3-StarterBook.xlsx)
+## Results
 
----
-## Recommendations.
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Our recommendations are recommendations, and we do highly suggest that you follow them.  However as they are just recommendations, you may do with them as you wish, as we recieved our compensation either way. Thank you for your business.
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
