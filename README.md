@@ -45,4 +45,4 @@ When setting up your tables, you really should be mindful of what variables you 
 - What are some limitations of this dataset?
  While this dataset goes into some detail and possibly enough to make a general decision, more data could be gathered.  How do the costumes look? the set? were donuts provided to the cast?  what rewards were backers givin?  free plushies? wands made of oak with pheonix feather cores? how about drinks and dinner?  were the trains all on time during the campaign? was this promised to backers? there are so many more questions to ask, i feel this is only a start.  
 - What are some other possible tables and/or graphs that we could create?
- Letter count in title/blurb vs success/fail. Do people give up when the titles are too long?  Staff Pick vs failures, does it being a staff pick lead to a worse outcome, I MUST KNOW!
+ Letter count in title/blurb vs success/fail. Do people give up when the titles are too long?  Staff Pick vs failures, does it being a staff pick lead to a worse outcome, I MUST KNOW! 
