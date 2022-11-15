@@ -37,6 +37,8 @@ When setting up your tables, you really should be mindful of what variables you 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
  The analysis of outcomes based on launch date show that While the early summer is where it's at, you really can't go wrong with anything but Halloween, Thanksgiving and Christmas.  People love their three Ps: pumpkins, pie, and presents.  
  
+ It seems that throughout the year there are skeptics about their own projects with at least some cancelling before they succeed and have to do "work".  However something happens in October, maybe it's all the maple/beer/pumpkin/fall festivals and people forget, but nobody cancels.  Is this why there is an uptick in success and fails during October?  Further analysis may be required for this question.
+ 
 - What can you conclude about the Outcomes based on Goals?
  The analysis of Goals show that the sweet spot of cash to beg for is is <5k and between 35k and 45k.  Surprisingly, it seems with the "right stuff" you could swindle some people out of 50k or more.  Maybe that one needs some further analysis.
 
